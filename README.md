@@ -7,7 +7,7 @@
  
  ```
  ### Configs for:
- - i3wm (i3-gaps)
+ - i3wm (i3-gaps) + bar
  - zsh/oh-my-zsh
  - alacritty
  - xrandr script
