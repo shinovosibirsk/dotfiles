@@ -23,3 +23,6 @@
  - GTK Theme: Adwaita Dark
  - ueberzug (for ranger)
  - bumblebee-status (bar)
+ 
+ 
+ ![Screenshot](https://cdn.discordapp.com/attachments/989325618237816842/1021900897405648926/2022-09-20_16-47.png)
