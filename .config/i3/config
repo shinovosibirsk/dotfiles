@@ -181,12 +181,7 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-	position top
-        status_command ~/bumblebee-status/bumblebee-status \
-		-m title cpu memory nvidiagpu datetime \
-		-t greyish-powerline
-}
+exec_always --no-startup-id ~/polybar.sh &
 
 for_window [class="^.*"] border pixel 0
 gaps inner 10
