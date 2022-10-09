@@ -25,4 +25,4 @@
  - polybar (bar)
  
  
- ![Screenshot](![image](https://cdn.discordapp.com/attachments/1023735976683638784/1028750880297734284/unknown.png))
+ ![Screenshot](https://cdn.discordapp.com/attachments/1023735976683638784/1028750880297734284/unknown.png)
