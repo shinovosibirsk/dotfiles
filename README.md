@@ -20,9 +20,9 @@
  
  ### Prerequisites that I haven't listed
  - Fonts: JetBrains Mono, Font Awesome, Powerline Fonts
- - GTK Theme: Adwaita Dark
+ - GTK Theme: Dracula (Color+Widget), Papirus-Dark (Icon)
  - ueberzug (for ranger)
  - polybar (bar)
  
  
- ![Screenshot](https://cdn.discordapp.com/attachments/1023735976683638784/1028750880297734284/unknown.png)
+ ![Screenshot](https://cdn.discordapp.com/attachments/1023735976683638784/1038999478335705148/image.png)
