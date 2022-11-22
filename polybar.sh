@@ -9,4 +9,4 @@ while pgrep -x polybar >/dev/null; do sleep 1; done
 # Launch
 polybar
 
-echo "kill niggers"
+echo "replacing a very bad statement"
