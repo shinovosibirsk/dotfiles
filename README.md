@@ -20,7 +20,7 @@
  
  ### Prerequisites that I haven't listed
  - Fonts: JetBrains Mono, Font Awesome, Powerline Fonts
- - GTK Theme: Dracula (Color+Widget), Papirus-Dark (Icon)
+ - GTK Theme: Adwaita-dark (Color+Widget), Papirus-Dark (Icon)
  - ueberzug (for ranger)
  - polybar (bar)
  
