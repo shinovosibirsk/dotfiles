@@ -19,7 +19,7 @@
  - auto tiling script (https://github.com/olemartinorg/i3-alternating-layout)
  
  ### Prerequisites that I haven't listed
- - Fonts: JetBrains Mono, Font Awesome, Powerline Fonts
+ - Fonts: Monofur NF
  - GTK Theme: Adwaita-dark (Color+Widget), Papirus-Dark (Icon)
  - ueberzug (for ranger)
  - polybar (bar)
