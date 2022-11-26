@@ -18,12 +18,13 @@
  - ranger
  - auto tiling script (https://github.com/olemartinorg/i3-alternating-layout)
  - rofi
+ - picom
  
  ### Prerequisites that I haven't listed
- - Fonts: Monofur NF
+ - Fonts: mononoki
  - GTK Theme: Adwaita-dark (Color+Widget), Papirus-Dark (Icon)
  - ueberzug (for ranger)
  - polybar (bar)
  
  
- ![Screenshot](https://cdn.discordapp.com/attachments/1023735976683638784/1044891328674287656/image.png)
+ ![Screenshot](https://cdn.discordapp.com/attachments/1023735976683638784/1045921186154037269/2022-11-25_22-36.png)
