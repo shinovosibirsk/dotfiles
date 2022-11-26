@@ -17,6 +17,7 @@
  - nitrogen
  - ranger
  - auto tiling script (https://github.com/olemartinorg/i3-alternating-layout)
+ - rofi
  
  ### Prerequisites that I haven't listed
  - Fonts: Monofur NF
