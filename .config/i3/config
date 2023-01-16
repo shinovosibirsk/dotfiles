@@ -51,7 +51,8 @@ bindsym $mod+Return exec alacritty
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec rofi -show run
+bindsym $mod+shift+d exec rofi -show run
+bindsym $mod+d exec rofi -show drun
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
@@ -190,5 +191,4 @@ exec_always --no-startup-id lxpolkit
 exec_always --no-startup-id ~/.screenlayout/auto.sh
 exec_always --no-startup-id ~/i3-alternating-layout/alternating_layouts.py
 exec_always --no-startup-id dunst
-exec_always --no-startup-id easyeffects --gapplication-service
 exec_always --no-startup-id picom
