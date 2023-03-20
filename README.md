@@ -8,3 +8,4 @@
  ```
  ### the pretty useless things that make looking at my desktop on i3 bearable
  
+### i use windows as of rn so this is dead
